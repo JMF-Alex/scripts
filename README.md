@@ -1,4 +1,7 @@
 #  Some util scripts
+### Index
+- [SSH](#ssh)
+- - [my_public_key.sh](#my_public_key.sh)
 
 # SSH
 ## my_public_key.sh
