@@ -1,7 +1,7 @@
 #  Some util scripts
 ### Index
 - [SSH](#ssh)
-- - [my_public_key.sh](#my_public_key.sh)
+  - [my_public_key.sh](#my_public_key.sh)
   - [fail2ban.sh](#Fail2ban)
 
 # SSH
