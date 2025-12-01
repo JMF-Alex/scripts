@@ -1,8 +1,14 @@
 #  Some util scripts
 ### Index
+- [BASH](#bash)
+  - [menu_selector.sh](#menu_selector.sh)
 - [SSH](#ssh)
   - [my_public_key.sh](#my_public_key.sh)
   - [fail2ban.sh](#Fail2ban)
+ 
+# BASH
+## [menu_selector.sh](https://github.com/JMF-Alex/scripts/blob/main/bash/menu_selector.sh)
+This is a simple script to make a menu selector in bash/shell
 
 # SSH
 ## [my_public_key.sh](https://github.com/JMF-Alex/scripts/blob/main/ssh/my_public_key.sh)
